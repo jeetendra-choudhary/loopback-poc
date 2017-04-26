@@ -1,0 +1,25 @@
+{
+  "name": "loopback-poc",
+  "version": "1.0.0",
+  "description": "Loopback POC for testing offline sync capabilities with NoSql DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jeetendra-choudhary/loopback-poc.git"
+  },
+  "keywords": [
+    "Loopback",
+    "Offline",
+    "Sync",
+    "Loopback.io"
+  ],
+  "author": "Jeetendra Choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeetendra-choudhary/loopback-poc/issues"
+  },
+  "homepage": "https://github.com/jeetendra-choudhary/loopback-poc#readme"
+}
